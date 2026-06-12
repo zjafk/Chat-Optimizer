@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8.5",
+    "package": "cn.autoforged.chat_optimizer_mod_1781247740.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "refmap": "chat_optimizer_mod_1781247740.refmap.json",
+    "client": [
+        "ChatComponentAccessor",
+        "ChatScreenMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

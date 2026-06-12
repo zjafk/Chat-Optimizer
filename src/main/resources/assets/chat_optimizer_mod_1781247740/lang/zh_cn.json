@@ -1,0 +1,30 @@
+{
+    "chat_optimizer_mod_1781247740.command.help": "显示 Chat Optimizer 命令帮助",
+    "chat_optimizer_mod_1781247740.command.toggle": "开关 Chat Optimizer",
+    "chat_optimizer_mod_1781247740.command.status": "显示当前模组状态",
+    "chat_optimizer_mod_1781247740.command.timestamp": "开关聊天时间戳",
+    "chat_optimizer_mod_1781247740.command.history": "聊天历史管理",
+    "chat_optimizer_mod_1781247740.command.search": "搜索聊天历史",
+    "chat_optimizer_mod_1781247740.command.autocommand": "管理自动指令",
+
+    "chat_optimizer_mod_1781247740.search.hint": "搜索聊天...",
+    "chat_optimizer_mod_1781247740.search.title": "聊天搜索",
+    "chat_optimizer_mod_1781247740.search.results": "结果: %d",
+    "chat_optimizer_mod_1781247740.search.no_results": "未找到结果",
+
+    "chat_optimizer_mod_1781247740.message.copied": "[Chat Optimizer] 已复制到剪贴板",
+    "chat_optimizer_mod_1781247740.message.enabled": "Chat Optimizer 已启用",
+    "chat_optimizer_mod_1781247740.message.disabled": "Chat Optimizer 已禁用",
+
+    "config.chat_optimizer_mod_1781247740.master.masterEnabled": "主开关",
+    "config.chat_optimizer_mod_1781247740.master.masterEnabled.tooltip": "全局开关所有 Chat Optimizer 功能",
+    "config.chat_optimizer_mod_1781247740.input.maxCharacters": "最大字符数",
+    "config.chat_optimizer_mod_1781247740.input.maxCharacters.tooltip": "聊天输入框最大字符数 (256-65536)",
+    "config.chat_optimizer_mod_1781247740.timestamps.timestampsEnabled": "时间戳",
+    "config.chat_optimizer_mod_1781247740.timestamps.timestampMode": "时间戳模式",
+    "config.chat_optimizer_mod_1781247740.history.historyEnabled": "聊天历史",
+    "config.chat_optimizer_mod_1781247740.history.historyAutoSave": "自动保存",
+    "config.chat_optimizer_mod_1781247740.right_click.rightClickActions": "右键操作",
+    "config.chat_optimizer_mod_1781247740.auto_commands.autoCommandsEnabled": "自动指令",
+    "config.chat_optimizer_mod_1781247740.search.searchEnabled": "本地搜索"
+}

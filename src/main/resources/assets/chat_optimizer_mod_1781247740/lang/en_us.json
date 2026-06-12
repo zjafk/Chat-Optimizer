@@ -1,0 +1,30 @@
+{
+    "chat_optimizer_mod_1781247740.command.help": "Show help for Chat Optimizer commands",
+    "chat_optimizer_mod_1781247740.command.toggle": "Toggle Chat Optimizer on/off",
+    "chat_optimizer_mod_1781247740.command.status": "Show current mod status",
+    "chat_optimizer_mod_1781247740.command.timestamp": "Toggle chat timestamps",
+    "chat_optimizer_mod_1781247740.command.history": "Chat history management",
+    "chat_optimizer_mod_1781247740.command.search": "Search chat history",
+    "chat_optimizer_mod_1781247740.command.autocommand": "Manage auto-commands",
+
+    "chat_optimizer_mod_1781247740.search.hint": "Search chat...",
+    "chat_optimizer_mod_1781247740.search.title": "Chat Search",
+    "chat_optimizer_mod_1781247740.search.results": "Results: %d",
+    "chat_optimizer_mod_1781247740.search.no_results": "No results found",
+
+    "chat_optimizer_mod_1781247740.message.copied": "[Chat Optimizer] Copied to clipboard",
+    "chat_optimizer_mod_1781247740.message.enabled": "Chat Optimizer enabled",
+    "chat_optimizer_mod_1781247740.message.disabled": "Chat Optimizer disabled",
+
+    "config.chat_optimizer_mod_1781247740.master.masterEnabled": "Master Switch",
+    "config.chat_optimizer_mod_1781247740.master.masterEnabled.tooltip": "Global toggle for all Chat Optimizer features",
+    "config.chat_optimizer_mod_1781247740.input.maxCharacters": "Max Characters",
+    "config.chat_optimizer_mod_1781247740.input.maxCharacters.tooltip": "Maximum characters in chat input field (256-65536)",
+    "config.chat_optimizer_mod_1781247740.timestamps.timestampsEnabled": "Timestamps",
+    "config.chat_optimizer_mod_1781247740.timestamps.timestampMode": "Timestamp Mode",
+    "config.chat_optimizer_mod_1781247740.history.historyEnabled": "Chat History",
+    "config.chat_optimizer_mod_1781247740.history.historyAutoSave": "Auto-Save",
+    "config.chat_optimizer_mod_1781247740.right_click.rightClickActions": "Right-Click Actions",
+    "config.chat_optimizer_mod_1781247740.auto_commands.autoCommandsEnabled": "Auto Commands",
+    "config.chat_optimizer_mod_1781247740.search.searchEnabled": "Local Search"
+}
